@@ -333,7 +333,7 @@
       "damageMultiplier": 0.50
     }
 },
-"requirements": ["titanium/8000"],
+"requirements": ["titanium/80"],
 "category": "turret",
 "research": "eternity-core"
 
